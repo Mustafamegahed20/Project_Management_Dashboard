@@ -1,5 +1,5 @@
 ﻿# Project_Management_Dashboard
-Analyzing , cleaning , modeling and visualizing Project Management data Using powerBi
+•	Using Power BI to Aggregate and visualize data from numerous projects, displaying their statuses, timelines and performance metrics, enabling comprehensive oversight and efficient management of a large-scale project portfolio
 
 ## Data
 Data Link : https://drive.google.com/file/d/19iGGCQ7Wqw-8iTeH-eW75PFr7384Vdpy/view
